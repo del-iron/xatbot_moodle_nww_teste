@@ -1,3 +1,8 @@
+<?php
+// Incluir a conexão com o banco de dados
+include('db.php');
+?>
+
 <!DOCTYPE html>
 <html lang="pt">
 <head>
