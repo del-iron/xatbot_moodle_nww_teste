@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username = "root"; // Altere para seu nome de usuário
 $password = ""; // Altere para sua senha
-$dbname = "respostas"; // Nome do banco de dados
+$dbname = "Chatbot"; // Nome do banco de dados
 
 // Criação da conexão
 $conn = new mysqli($servername, $username, $password, $dbname);
